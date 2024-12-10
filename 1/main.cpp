@@ -3,12 +3,9 @@
 #include <vector>
 #include <string>
 
-using namespace std;
+#include "read_file.h"
 
-vector<string> read_lines_from_file(const string& file) {
-  vector<string> lines;
-  return lines;
-}
+using namespace std;
 
 void print_lines(const vector<string>& lines) {
 }

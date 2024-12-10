@@ -1,5 +1,5 @@
 *.o
-*.out
-*.bin
-*.obj
+*.depend
+bin/
+obj/
  
